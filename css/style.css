@@ -1,0 +1,23 @@
+.card {
+	background: lightblue;
+	border: 2px solid pink;
+	border-radius: 5px;
+	padding: 25px;
+	box-shadow: 10px 10px 5px #888888;
+	margin-bottom: 15px;
+}
+
+.profile-pic {
+	max-width: 100%
+}
+
+body {
+    background: url("../img/mm.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header-fix {
+	border-radius: 0px;
+	border: none;
+}
